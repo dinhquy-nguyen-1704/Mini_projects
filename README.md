@@ -1,1 +1,1 @@
-# Mini_project (used for learning purposes)
+# Mini_projects (used for learning purposes)
